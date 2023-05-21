@@ -1,3 +1,4 @@
+
 # funcao de apoio merge (só funciona para duas pilhas ordenadas)
 # junta duas pilhas de cartas ordenadas numa única pilha ordenada
 def merge(left_list, right_list):
